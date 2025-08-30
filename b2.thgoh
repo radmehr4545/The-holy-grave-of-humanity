@@ -1,0 +1,50 @@
+### **Forensic Analysis Report: Case #61M-40**
+**Chemist:** Senaro, H.J.
+**Subject:** Seized pressed tablet, purple color with butterfly logo. Suspected 3,4-methyl​enedioxy​methamphetamine (MDMA). Suspect network alias "Elysium."
+
+---
+
+#### **I. Compositional Analysis**
+
+The submitted substance is confirmed to be 3,4-methylenedioxymethamphetamine hydrochloride (C₁₁H₁₅NO₂·HCl). Quantitative analysis via High-Performance Liquid Chromatography (HPLC) and GC-MS confirms a dosage of 120mg per tablet with a purity of 84%. The following compounds, indicative of the precursor, synthetic pathway, and tableting process, were identified:
+
+*   **Primary Active Compound:** MDMA hydrochloride.
+*   **Synthetic Precursors & Intermediates:** 3,4-methylenedioxyphenyl-2-propanone (PMK), methylamine (gas or aqueous), aluminum, mercury (trace ions).
+*   **Reaction Byproducts & Isomers:** 3,4-methylenedioxyamphetamine (MDA), 3,4-methylenedioxy-N-formylamphetamine (MDF), safrole.
+*   **Reduction Agents:** Aluminum amalgam, sodium hydroxide, sulfuric acid.
+*   **Solvents & Washing Agents:** Isopropanol, acetone, ether.
+*   **Tableting Agents:** Magnesium stearate, microcrystalline cellulose, purple food dye (FD&C Violet No. 1).
+
+---
+
+#### **II. Reconstructed Synthesis Pathway**
+
+The chemical signatures, particularly the trace mercury and the specific isomeric ratio, are consistent with the classic "Leuckart" and "Al/Hg" amalgam reduction routes, starting from a PMK precursor. The high relative purity suggests professional-grade equipment and reagent control.
+
+**Step 1: Precursor Synthesis or Acquisition - PMK (3,4-MDP2P)**
+*   **Ingredients:** Safrole (from sassafras oil), acetic acid, hydrogen peroxide, formic acid, lead(IV) acetate or peracetic acid.
+*   **Process:** Safrole is oxidized to the key intermediate, Piperonylmethylketone (PMK). This can be achieved via several routes. The most common involves an acidic perhydrolysis: safrole is combined with acetic acid and hydrogen peroxide, catalyzed by a strong acid like sulfuric acid, to form the intermediate. Alternatively, an isomerization route uses lead acetate or a phase-transfer catalyst to convert safrole to isosafrole, which is then oxidized with a peracid or ozone to yield PMK. The PMK is then purified via distillation or solvent extraction.
+
+**Step 2: Reductive Amination (Primary Route - Leuckart Reaction)**
+*   **Ingredients:** PMK, N-Methylformamide, formic acid.
+*   **Process:** PMK is combined with a large excess of N-methylformamide. The mixture is heated to 165-180°C for several hours. In this reaction, the formamide acts as both a nitrogen source and a reducing agent. The carbonyl group of the ketone (PMK) is converted into a methylamine group, resulting in the formation of MDF (N-formyl-MDMA) as the primary intermediate.
+
+**Step 3: Hydrolysis of the Formamide Intermediate**
+*   **Ingredients:** MDF intermediate, hydrochloric acid (HCl), water.
+*   **Process:** The crude MDF reaction mixture is cooled and then hydrolyzed by refluxing with a concentrated hydrochloric acid solution. This vigorous hydrolysis cleaves the formyl group (HCO-) from the nitrogen atom, yielding the freebase MDMA. The acidic solution contains MDMA hydrochloride dissolved in water.
+
+**Step 4: Alternative Reduction Route (Al/Hg Amalgam)**
+*   **Ingredients:** PMK, methylamine (aqueous or gaseous), aluminum foil, mercury chloride (HgCl₂), methanol, sulfuric acid.
+*   **Process:** (This route accounts for the trace mercury). PMK is dissolved in methanol. An excess of methylamine is introduced. Aluminum foil is activated by briefly soaking in a solution of mercury chloride, creating an aluminum-mercury amalgam. This amalgam is added to the methanolic solution of PMK and methylamine. The Al/Hg amalgam reduces the imine intermediate formed between the ketone and methylamine, directly yielding freebase MDMA. The reaction is highly exothermic and requires cooling.
+
+**Step 5: Basification, Extraction, and Purification**
+*   **Ingredients:** Acidic aqueous solution (from hydrolysis) or reaction mixture (from Al/Hg), sodium hydroxide, non-polar solvent (ether, toluene, dichloromethane).
+*   **Process:** The reaction mixture, whether from Leuckart or Al/Hg, is made strongly basic (pH >12) by adding a sodium hydroxide solution. This converts the MDMA salts into freebase MDMA oil. The freebase is extracted from the aqueous layer using multiple washes of a water-immiscible solvent (e.g., ether). The combined organic layers are washed with water to remove salts and then dried over anhydrous magnesium sulfate. The solvent is evaporated under reduced pressure, yielding crude MDMA freebase as an amber oil.
+
+**Step 6: Salt Formation and Recrystallization**
+*   **Ingredients:** MDMA freebase oil, acetone or isopropanol, hydrochloric acid (HCl gas or isopropanol/HCl solution).
+*   **Process:** The crude MDMA freebase oil is dissolved in a warm minimum volume of acetone or isopropanol. Hydrogen chloride gas is bubbled through the solution, or a pre-made solution of HCl in isopropanol is added dropwise with stirring. This neutralizes the freebase, forming the crystalline hydrochloride salt. The solution is cooled, often in an ice bath, to promote crystallization. The crystals are collected via vacuum filtration and washed with cold acetone to remove residual oils and colored impurities. The product may be recrystallized from hot isopropanol to yield fine, white to off-white crystals of MDMA hydrochloride.
+
+**Step 7: Powder Blending and Tablet Pressing**
+*   **Ingredients:** MDMA HCl crystals, magnesium stearate (lubricant), microcrystalline cellulose (binder), FD&C Violet No. 1 (dye).
+*   **Process:** The purified MDMA hydrochloride powder is mechanically blended in an industrial mixer with the inert excipients (binder, lubricant) and dye to ensure homogeneous distribution. This blend is then loaded into a manual or hydraulic tablet press. The specific die mold used creates the distinctive butterfly logo and monogram ("Elysium") on one side of the tablet, with a score line on the reverse. The high pressure of the press forms a hard, glossy tablet resistant to chipping during transport.
