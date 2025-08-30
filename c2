@@ -1,0 +1,51 @@
+### **Forensic Analysis Report: Case #37B-22**
+**Chemist:** Senaro, H.J.
+**Subject:** Seized pink-tan powder, pressed into tablets with a rocket logo. Suspected 4-Bromo-2,5-dimethoxyphenethylamine (2C-B). Suspect network alias "Nexus."
+
+---
+
+#### **I. Compositional Analysis**
+
+The submitted substance is confirmed to be 2C-B hydrobromide (C₁₀H₁₄BrNO₂·HBr). Quantitative analysis via High-Performance Liquid Chromatography (HPLC) and GC-MS confirms a dosage of 18mg per tablet with a purity of 87%. The following compounds, indicative of the synthetic pathway and precursor materials, were identified:
+
+*   **Primary Active Compound:** 2C-B hydrobromide.
+*   **Precursors & Key Intermediates:** 2,5-dimethoxybenzaldehyde, nitrostyrene intermediate (4-Bromo-2,5-dimethoxy-β-nitrostyrene).
+*   **Reduction Byproducts:** oxime, des-bromo analogue (2C-H).
+*   **Reduction Agents:** lithium aluminum hydride (LiAlH₄), hydrogen gas (Pd/C catalyst).
+*   **Bromination Agents:** bromine (Br₂), or pyridinium bromide perbromide.
+*   **Solvents & Washing Agents:** glacial acetic acid, tetrahydrofuran (THF), dry diethyl ether, ethyl acetate, methanol.
+*   **Tableting Agents:** lactose, magnesium stearate, microcrystalline cellulose, pink FD&C Red No. 3.
+
+---
+
+#### **II. Reconstructed Synthesis Pathway**
+
+The chemical signatures, specifically the presence of nitrostyrene and dimethoxybenzaldehyde precursors, are definitive for the classic nitrostyrene reduction pathway. The high regioselectivity of bromination and the use of a hydrobromide salt are characteristic of well-executed 2C-B synthesis.
+
+**Step 1: Synthesis of 2,5-Dimethoxybenzaldehyde**
+*   **Ingredients:** Hydroquinone, dimethyl sulfate, potassium carbonate, acetone, hexamethylenetetramine (hexamine), trifluoroacetic acid (TFA).
+*   **Process:** Hydroquinone is first converted to 1,4-dimethoxybenzene via O-methylation using dimethyl sulfate and anhydrous potassium carbonate in acetone (Williamson ether synthesis). The 1,4-dimethoxybenzene then undergoes a Duff reaction (electrophilic formylation). It is combined with hexamethylenetetramine in excess trifluoroacetic acid. The reaction is heated, hydrolyzed, and worked up to yield 2,5-dimethoxybenzaldehyde. The aldehyde is purified by vacuum distillation or recrystallization.
+
+**Step 2: Henry Reaction: Formation of the Nitrostyrene Intermediate**
+*   **Ingredients:** 2,5-dimethoxybenzaldehyde, nitromethane, ammonium acetate, acetic acid, methanol or ethanol.
+*   **Process:** 2,5-Dimethoxybenzaldehyde is dissolved in glacial acetic acid. Nitromethane and a catalytic amount of ammonium acetate are added. The mixture is heated under reflux for 4-8 hours. This is a Henry reaction (nitroaldol condensation), where the aldehyde condenses with nitromethane to form (E)-2-(2,5-dimethoxyphenyl)-1-nitroethene. The reaction mixture is cooled and poured into ice water. The resulting yellow-orange crystalline solid of the nitrostyrene intermediate is collected by filtration, washed with cold water, and dried. This intermediate is typically used without further purification.
+
+**Step 3: Electrophilic Aromatic Bromination**
+*   **Ingredients:** Nitrostyrene intermediate, bromine (Br₂) or pyridinium bromide perbromide, chloroform (CHCl₃), acetic acid.
+*   **Process:** The dry nitrostyrene intermediate is dissolved in dry chloroform or glacial acetic acid in a flask protected from light. A solution of bromine in the same solvent is added dropwise at 0-5°C. The bromination is highly regioselective due to the directing effects of the methoxy groups, adding solely to the 4-position (para to the alkene). The reaction is quenched with a saturated sodium bisulfite solution to remove excess bromine. The product, 4-bromo-2,5-dimethoxy-β-nitrostyrene, precipitates as a yellow crystalline solid. It is filtered, washed thoroughly with cold solvent, and dried.
+
+**Step 4: Reduction of the Nitro Group to the Primary Amine**
+*   **Ingredients:** Brominated nitrostyrene, lithium aluminum hydride (LiAlH₄), anhydrous tetrahydrofuran (THF), sodium sulfate decahydrate (Na₂SO₄·10H₂O).
+*   **Process:** This is a critical and hazardous step. LiAlH₄ is suspended in anhydrous THF under an inert atmosphere (N₂ or Ar). A solution of the brominated nitrostyrene in dry THF is added dropwise with vigorous stirring and cooling (0°C). The mixture is then warmed to room temperature and stirred for 12-24 hours. LiAlH₄ reduces the nitrovinyl group directly to the primary amine, creating the 2C-B freebase. The reaction is carefully quenched by the sequential dropwise addition of water, followed by 15% NaOH solution, and finally more water to decompose the complex and precipitate aluminum salts. The resulting slurry is filtered through a celite pad, and the filter cake is washed thoroughly with THF and ethyl acetate. The combined filtrates are concentrated under reduced pressure to yield the crude 2C-B freebase as an oil.
+
+**Step 5: Alternative Reduction: Catalytic Hydrogenation**
+*   **Ingredients:** Brominated nitrostyrene, hydrogen gas (H₂), palladium on carbon (Pd/C) catalyst, methanol, ethyl acetate.
+*   **Process:** The nitrostyrene is dissolved in methanol or ethyl acetate in a hydrogenation flask. A catalytic amount of 10% Pd/C is added. The mixture is hydrogenated at 40-60 psi of H₂ gas for 6-12 hours. The catalyst is filtered off through a celite pad, and the solvent is evaporated to yield the 2C-B freebase oil. This method is less common due to the potential for debromination under catalytic hydrogenation conditions, which would yield 2C-H as a significant contaminant.
+
+**Step 6: Salt Formation and Purification**
+*   **Ingredients:** 2C-B freebase oil, hydrobromic acid (HBr, 48% in water), acetone, isopropanol.
+*   **Process:** The crude freebase oil is dissolved in a small volume of warm anhydrous acetone. A slight excess of 48% hydrobromic acid is added dropwise with stirring. The 2C-B hydrobromide salt immediately precipitates as a fine white to tan powder. The mixture is cooled in an ice bath to maximize crystallization. The crystals are collected by vacuum filtration and washed with cold acetone, then cold isopropanol, to remove residual acids and colored impurities. The product is recrystallized from hot methanol or ethanol to yield pure 2C-B hydrobromide as fine white crystals. The pink-tan hue of the exhibit is from intentional dye added post-purification.
+
+**Step 7: Powder Blending and Tablet Pressing**
+*   **Ingredients:** 2C-B HBr powder, lactose, microcrystalline cellulose, magnesium stearate, FD&C Red No. 3.
+*   **Process:** The purified 2C-B hydrobromide crystals are geometrically diluted with lactose and cellulose using a mortar and pestle or a tumbler mixer to ensure homogenous distribution. A small amount of magnesium stearate is added as a lubricant. The pink dye is added during this blending process. The final blend is pressed using a hydraulic tablet press fitted with a custom die that creates the distinctive rocket logo and score line. The low dosage (18mg) per tablet requires high precision in mixing to ensure dosage uniformity.
