@@ -1,0 +1,50 @@
+### **Forensic Analysis Report: Case #19M-83**
+**Chemist:** Senaro, H.J.
+**Subject:** Seized crystalline substance, high clarity. Suspected methamphetamine hydrochloride produced via P2P method. Suspect network alias "Apollyon."
+
+---
+
+#### **I. Compositional Analysis**
+
+The submitted substance is confirmed to be d-methamphetamine hydrochloride (C₁₀H₁₅N·HCl). Quantitative analysis via Chiral Gas Chromatography-Mass Spectrometry (GC-MS) confirms a high purity of 91% with a d-isomer concentration of 98%. The following compounds, indicative of the P2P (phenyl-2-propanone) synthesis pathway and subsequent resolution, were identified:
+
+*   **Primary Active Compound:** d-methamphetamine hydrochloride.
+*   **Precursor & Key Intermediate:** phenyl-2-propanone (P2P), benzaldehyde (trace).
+*   **Reaction Byproducts:** diphenylethanol, dimethamphetamine, N-formylmethamphetamine.
+*   **Reduction Agents:** aluminum, mercury (trace ions), ammonium chloride, sodium hydroxide.
+*   **Chiral Resolution Agents:** L-tartaric acid, D-tartaric acid (trace).
+*   **Solvents & Washing Agents:** toluene, methanol, isopropanol, acetone, diethyl ether.
+*   **Contaminants:** palladium (trace, from catalyst), sodium borohydride decomposition products.
+
+---
+
+#### **II. Reconstructed Synthesis Pathway**
+
+The chemical signatures, specifically the presence of P2P precursors, the racemic nature of the initial product, and the use of tartaric acid, are definitive for the P2P-Al/Hg amalgam reduction method followed by chiral resolution. The high enantiomeric purity indicates a sophisticated, large-scale operation.
+
+**Step 1: Phenyl-2-propanone (P2P) Synthesis (via Benzaldehyde Nitropropene Route)**
+*   **Ingredients:** benzaldehyde, nitroethane, ammonium acetate, acetic acid, cyclohexane or toluene, palladium on carbon (Pd/C) or zinc amalgam (Zn/Hg), sulfuric acid.
+*   **Process:** Benzaldehyde and nitroethane undergo a condensation reaction catalyzed by ammonium acetate in acetic acid (the Knoevenagel condensation), forming β-nitrostyrene. The β-nitrostyrene is then purified and reduced. This reduction can be catalytic hydrogenation using palladium on carbon (Pd/C) in a solvent like cyclohexane or toluene, or via a metal-acid reduction using zinc amalgam (Zn/Hg) in a hydrochloric acid solution. Both pathways yield phenyl-2-propanone (P2P). The P2P is separated from the aqueous layer, dried, and purified via fractional distillation under vacuum.
+
+**Step 2: Formation of the Methylimine Intermediate (Condensation)**
+*   **Ingredients:** P2P, methylamine (anhydrous gas or 40% aqueous solution), toluene, molecular sieves (optional).
+*   **Process:** The purified P2P is dissolved in anhydrous toluene in a reaction vessel equipped with a drying tube. A large excess of methylamine, either as a gas bubbled through the solution or as a concentrated aqueous solution, is introduced. The reaction mixture is agitated for several hours. The carbonyl group of the P2P reacts with the methylamine, losing a molecule of water (H₂O) to form the intermediate methylimine (N-methyl-1-phenylpropylideneimine). If using aqueous methylamine, the water is removed azeotropically during the reaction. The use of molecular sieves is common to scavenge water and drive the reaction to completion.
+
+**Step 3: Reduction of the Imine (Al/Hg Amalgam Reduction)**
+*   **Ingredients:** Methylimine intermediate in toluene, aluminum foil, mercury(II) chloride (HgCl₂), methanol, ammonium chloride.
+*   **Process:** This is a two-stage process. First, the aluminum reducer is prepared: aluminum foil is briefly treated with a dilute solution of mercury(II) chloride in methanol. This creates an aluminum-mercury amalgam, activating the metal. The amalgamated aluminum is then added to the toluene solution containing the methylimine. The reaction is highly exothermic and requires cooling to maintain a temperature between 30-40°C. The Al/Hg amalgam provides the electrons for the reduction of the carbon-nitrogen double bond in the imine, converting it to a carbon-nitrogen single bond, thus yielding racemic methamphetamine freebase. A solution of ammonium chloride is often added after the reaction is complete to dissolve aluminum salts.
+
+**Step 4: Workup and Isolation of Racemic Freebase**
+*   **Ingredients:** Reaction mixture, sodium hydroxide, toluene or diethyl ether.
+*   **Process:** The reaction mixture is made strongly basic (pH >13) by adding a sodium hydroxide solution. This ensures all methamphetamine is in its freebase form. The freebase, which is soluble in organic solvents, is extracted from the alkaline aqueous layer using multiple washes of toluene or diethyl ether. The combined organic extracts are washed with water and brine to remove residual inorganic salts, then dried over anhydrous sodium sulfate or magnesium sulfate. The solvent is evaporated under reduced pressure, yielding a yellow-to-amber oil of racemic (dl-) methamphetamine freebase.
+
+**Step 5: Chiral Resolution via Diastereomeric Salt Crystallization**
+*   **Ingredients:** Racemic methamphetamine freebase, L-tartaric acid, methanol, water, acetone.
+*   **Process:** The racemic freebase oil is dissolved in a warm minimum volume of methanol. An equimolar amount of L-tartaric acid, dissolved in warm methanol, is added slowly with stirring. The L-tartaric acid forms a salt with both d- and l-methamphetamine. The salt of the d-methamphetamine and L-tartaric acid is less soluble in methanol and crystallizes out preferentially as the solution cools. The l-methamphetamine salt remains in solution. The crystals are collected via vacuum filtration and washed with cold methanol. These crystals are the d-methamphetamine L-tartrate salt. To convert it to the hydrochloride, the tartrate salt is dissolved in water, basified with NaOH to liberate the pure d-methamphetamine freebase oil, which is then extracted into an organic solvent.
+
+**Step 6: Final Salt Formation and Crystallization**
+*   **Ingredients:** d-methamphetamine freebase, acetone or isopropanol, anhydrous hydrogen chloride gas (or HCl in ether).
+*   **Process:** The purified d-methamphetamine freebase oil is dissolved in a small volume of cold acetone or isopropanol. Anhydrous hydrogen chloride gas is bubbled through the solution, or a solution of HCl in diethyl ether is added dropwise, until the solution is acidic (pH ~4-5). This causes the d-methamphetamine hydrochloride to precipitate as a white crystalline solid. The crystals are collected by filtration, washed with cold acetone to remove any residual oil or tartaric acid traces, and dried under vacuum. The final product consists of large, shard-like crystals of high optical purity.
+
+**Step 7: Final Product Analysis**
+The resulting substance is characterized by its high chiral purity, large crystalline structure, and absence of the contaminants typical of ephedrine reduction (e.g., phosphorous compounds). The trace mercury and palladium serve as a definitive fingerprint for this synthetic route.
